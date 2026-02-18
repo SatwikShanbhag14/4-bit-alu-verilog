@@ -27,3 +27,9 @@ RTL schematic generated using Vivado:
 ## Simulation Waveform
 Functional verification waveform:
 ![Waveform](waveform.png)
+## How to Run the Project
+1. Open Xilinx Vivado
+2. Create a new RTL project
+3. Add alu4bit.v and tb.v files
+4. Run Behavioral Simulation
+5. View waveform in simulation window
